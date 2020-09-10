@@ -1,0 +1,12 @@
+{% extends 'partials/base_page.html.twig' %}
+
+{% do assets.addCss('theme://css/page.css', 105) %}
+
+{% block content %}
+  {% if page.header.hed %}
+  <h2>{{ page.header.hed }}</h2>
+  {% endif %}
+  <div class="content">
+    {{ content }}
+  </div>
+{% endblock %}
