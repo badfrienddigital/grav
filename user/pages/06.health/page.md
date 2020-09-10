@@ -1,5 +1,6 @@
 ---
 title: health
+published: true
 ---
 
 # The Short Of It
