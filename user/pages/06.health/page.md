@@ -21,3 +21,33 @@ My worst symptoms are:
 - Cognitive stamina; I crash if I read too much, listen too long, or look at a screen too often. 
 
 I'm currently working with an ME/CFS specialist, as well as several neurologists. I have a good team of doctors, but there is no cure. I've tried many treatments, and there are always more to try, but full recovery is rare. For now, I'm doing my best to live within very tight limitations.
+
+If you'd like occasional updates about my health, you can follow me on [Patreon](https://patreon.com/ryanlittle). Skip the subscribe options, hit Follow, and every month or two you'll get a message from me in your inbox.
+
+---
+# Resources
+
+Want to learn more? There's a lot of misinformation out there; here are some sources that I find helpful:
+
+[Quick Facts](https://www.meaction.net/about/what-is-me) from #MEAction
+
+[Unrest](https://unrest.film): an accurate and compelling Emmy-nominated documentary about the disease; this is honestly the best place to begin.
+
+[Do I Have CFS?](https://www.healthrising.org/about-chronic-fatigue-syndrome-mecfs/do-i-have-chronic-fatigue-syndrome/)
+
+[CFS Self-Help](http://www.cfsselfhelp.org/pacing-tutorial): Advice on managing activity levels to minimize symptoms, also known as pacing
+
+[Health Rising](https://www.healthrising.org/): the latest ME/CFS related news
+
+[Open Medicine Foundation](https://www.omf.ngo/): cutting 
+edge ME/CFS research
+
+[MEpedia](http://me-pedia.org/): a patient-run resource
+
+[Phoenix Rising](https://forums.phoenixrising.me/forums): smart & deep patient forums
+
+[r/CFS](https://www.reddit.com/r/cfs/): quick, newbie-friendly discussions & chats
+
+[Clinician Coalition](https://mecfscliniciancoalition.org/medical-education/): information for healthcare providers, including free CME credits
+
+[Donate](https://give.meaction.net/millionsmissing-us/ryan-little) to #MEAction in my name
