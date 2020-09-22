@@ -29,6 +29,13 @@ h2 {
   max-width: 38em;
 }
 
+.content a {
+  color: #4c2452;
+}
+
+.content a:visited {
+  color: var(--linkColor)
+}
 
 @media screen and (min-width: 59em) {
   .content {
