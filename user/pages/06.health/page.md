@@ -1,6 +1,7 @@
 ---
 title: health
 published: true
+cache_enable: false
 ---
 
 # The Short Of It
@@ -25,6 +26,7 @@ I'm currently working with an ME/CFS specialist, as well as several neurologists
 If you'd like occasional updates about my health, you can follow me on [Patreon](https://patreon.com/ryanlittle). Skip the subscribe options, hit Follow, and every month or two you'll get a message from me in your inbox.
 
 ---
+
 # Resources
 
 Want to learn more? There's a lot of misinformation out there; here are some sources that I find helpful:
