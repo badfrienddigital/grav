@@ -1,11 +1,9 @@
 ---
 title: thanks2
-routable: false
 process:
     markdown: false
     twig: false
 ---
-
 
 <!DOCTYPE html>
 <html lang="en">
