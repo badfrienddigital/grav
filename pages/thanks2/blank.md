@@ -1,5 +1,5 @@
 ---
-title: thanks2
+title: thanks
 process:
     markdown: false
     twig: false
