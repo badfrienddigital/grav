@@ -1,6 +1,7 @@
 ---
 title: thanks
-routable: false
-visible: true
+process:
+    markdown: false
+    twig: false
 ---
 
