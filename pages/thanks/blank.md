@@ -4,11 +4,11 @@ process:
     markdown: false
     twig: false
 pp_protect: '1'
-pp_password_hash: a76928353dcbe6fb0c72b3e4d9b259bffc9d2022ca9078823f7d4c31f478ef31b1394a56026e80cf0b8856ce8f47391bf0419f32e78c8b944e4f5f4c5f5dd98a
+pp_password_hash: 21115e0e1557d647c1127e57dee9212b46fd3a5aaeb70f2e17a9cd8d19ed3c221c097a495d3c80464a228fa10db50bdc7b8094c9c333006b9c153e4c3df070de
 feed:
     skip: true
-pp_headline: 'Subscribers Only'
-pp_description: 'Enter Password'
+pp_headline: Secret
+pp_description: Enter
 ---
 
 <!DOCTYPE html>
