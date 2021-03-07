@@ -20,11 +20,11 @@ process:
       
       <SCRIPT language="JavaScript">
 var password; 
-var pass1="strange"; 
+var pass1="nostranger"; 
 password=prompt('Enter Password',' '); 
 if (password==pass1) 
 alert('Correct! Click OK to Enter'); 
-else { window.location="https://ryantlittle.com/health"; 
+else { window.location="https://ryantlittle.com/thanks/1t2y3f4r5n6d"; 
 } 
 </SCRIPT>
       
