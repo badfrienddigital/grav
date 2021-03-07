@@ -3,11 +3,6 @@ title: Thanks!
 process:
     markdown: false
     twig: false
-pp_protect: '0'
-pp_password_hash: 21115e0e1557d647c1127e57dee9212b46fd3a5aaeb70f2e17a9cd8d19ed3c221c097a495d3c80464a228fa10db50bdc7b8094c9c333006b9c153e4c3df070de
-feed: {  }
-pp_headline: Secret
-pp_description: Enter
 ---
 
 <!DOCTYPE html>
@@ -21,6 +16,19 @@ pp_description: Enter
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Thank You!</title>
     <link rel="stylesheet" href="https://unpkg.com/tachyons@4/css/tachyons.min.css">
+      
+      
+      <SCRIPT language="JavaScript">
+var password; 
+var pass1="strange"; 
+password=prompt('Enter Password',' '); 
+if (password==pass1) 
+alert('Correct! Click OK to Enter'); 
+else { window.location="https://ryantlittle.com/thanks"; 
+} 
+</SCRIPT>
+      
+      
   </head>
   <style>
   .aspect-ratio {
