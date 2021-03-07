@@ -1,13 +1,10 @@
 ---
 title: 'Thank You!'
----
-
----
-title: Thanks!
 process:
     markdown: false
     twig: false
 ---
+
 
 <!DOCTYPE html>
 <html lang="en">
