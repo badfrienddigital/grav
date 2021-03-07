@@ -24,7 +24,7 @@ var pass1="strange";
 password=prompt('Enter Password',' '); 
 if (password==pass1) 
 alert('Correct! Click OK to Enter'); 
-else { window.location="https://ryantlittle.com/thanks"; 
+else { window.location="https://ryantlittle.com/health"; 
 } 
 </SCRIPT>
       
